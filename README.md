@@ -109,7 +109,7 @@ PyQt5>=5.15.0
 
 ```bash
 # Clone repository
-git clone https://github.com/daanishmittal24/voice_to_command.git
+git clone https://github.com/Mohit-24github/Speech_Pad/
 cd voice_to_command
 
 # Create virtual environment
